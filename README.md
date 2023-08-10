@@ -1,9 +1,8 @@
 # HOW TO TRY THIS CODE
 
-1. Clone my repository at your terminal git clone https://github.com/AhmadHasbyBik/Auth_GraphQL.Express.git
-2. Open directory cd Auth_GraphQL.Express
-3. <img width="152" alt="Jepretan Layar 2023-08-10 pukul 19 50 25" src="https://github.com/AhmadHasbyBik/Auth_GraphQL.Express/assets/91450054/92426945-b0bf-4e72-9c8d-d1b530230d88">
-   Make Database MySQL with name “jwt-auth-express”
+<p>1. Clone my repository at your terminal git clone https://github.com/AhmadHasbyBik/Auth_GraphQL.Express.git</p>
+<p>2. Open directory cd Auth_GraphQL.Express</p>
+<p>3. <img width="152" alt="Jepretan Layar 2023-08-10 pukul 19 50 25" src="https://github.com/AhmadHasbyBik/Auth_GraphQL.Express/assets/91450054/92426945-b0bf-4e72-9c8d-d1b530230d88"><br>Make Database MySQL with name “jwt-auth-express”</p>
 5. Install NPM, and start the project,  type “npm install” on your terminal, then “npm start”
 6. Rename file "env" to ".env"
 7. <img width="443" alt="Jepretan Layar 2023-08-10 pukul 19 51 04" src="https://github.com/AhmadHasbyBik/Auth_GraphQL.Express/assets/91450054/82fb9ab6-e2e5-4ece-850e-b3282cb9e8a9">
