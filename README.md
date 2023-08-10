@@ -3,8 +3,8 @@
 <p>1. Clone my repository at your terminal <br>git clone https://github.com/AhmadHasbyBik/Auth_GraphQL.Express.git</p>
 <p>2. Open directory <br>cd Auth_GraphQL.Express</p>
 <p>3. <img width="152" alt="Jepretan Layar 2023-08-10 pukul 19 50 25" src="https://github.com/AhmadHasbyBik/Auth_GraphQL.Express/assets/91450054/92426945-b0bf-4e72-9c8d-d1b530230d88"><br>Make Database MySQL with name “jwt-auth-express”</p>
-<p>5. Install NPM, and start the project,  type “npm install” on your terminal, then “npm start”</p>
-<p>6. Rename file "env" to ".env"</p>
+<p>5. Rename file "env" to ".env"</p>
+<p>6. Install NPM, and start the project,  type “npm install” on your terminal, then “npm start”</p>
 <p>7. <img width="443" alt="Jepretan Layar 2023-08-10 pukul 19 51 04" src="https://github.com/AhmadHasbyBik/Auth_GraphQL.Express/assets/91450054/82fb9ab6-e2e5-4ece-850e-b3282cb9e8a9"><br>If you see “Running at port 4000”, you can ensure that project was work</p>
 <p>9. <img width="475" alt="Jepretan Layar 2023-08-10 pukul 19 51 23" src="https://github.com/AhmadHasbyBik/Auth_GraphQL.Express/assets/91450054/b4d0783d-5087-41b1-8c4e-7f2414fdc9d1"><br>Open Apollo graphQL on http://localhost:4000/graphql (Incognito Chrome preferred), and click Query your server</p>
 <p>11. <img width="1280" alt="Jepretan Layar 2023-08-10 pukul 19 53 17" src="https://github.com/AhmadHasbyBik/Auth_GraphQL.Express/assets/91450054/510fa0ab-da7e-4576-a8dc-90b6d789276f"><br>SignUp, you can follow Root > Mutation > SignUp, then you can click add to query Arguments, Fields. Ensure that you type username, email, password to create account.</p>
